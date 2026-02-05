@@ -8,6 +8,7 @@ I’m an Informatics Engineering undergraduate at Universitas Jabal Ghafur Sigli
 I aspire to grow as a proficient bug hunter, focusing on building secure, efficient, and innovative systems while identifying vulnerabilities that help strengthen digital security. From developing scalable applications to tackling ethical hacking challenges, I’m driven by curiosity and problem-solving.
 
 I love transforming ideas into intuitive, engaging digital experiences through clean and maintainable code. Feel free to explore my work, collaborate on exciting projects, and let’s build impactful solutions together. 🚀✨
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hsnlmbrq_)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@migi.way7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jamalul-husnil-mubaraq-284b8638b)
