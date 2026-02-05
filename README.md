@@ -3,10 +3,11 @@
 ![Banner](https://drive.google.com/uc?export=view&id=1RaR_-8KADg3Pp-UuT3deZFyD5mP65523)
 
 
-Hi, I’m a passionate Informatics Engineering undergraduate at Universitas Hasanuddin. I’m deeply fascinated by the world of full-stack development and UI/UX design, always eager to push boundaries and explore the latest in web technologies. My goal is to become a skilled bug hunter, crafting secure, innovative solutions and uncovering vulnerabilities to make the digital world safer.
+I’m an Informatics Engineering undergraduate at Universitas Jabal Ghafur Sigli with a strong passion for web development and digital creativity. I enjoy working across the full-stack spectrum while also having a keen interest in UI/UX design, constantly learning and adapting to emerging technologies in the web ecosystem.
 
-I thrive on turning creative ideas into seamless, interactive experiences with clean, efficient code, whether it’s building robust applications or diving into ethical hacking challenges. Let’s connect, explore my projects, and create something extraordinary together! 🚀💻
+I aspire to grow as a proficient bug hunter, focusing on building secure, efficient, and innovative systems while identifying vulnerabilities that help strengthen digital security. From developing scalable applications to tackling ethical hacking challenges, I’m driven by curiosity and problem-solving.
 
+I love transforming ideas into intuitive, engaging digital experiences through clean and maintainable code. Feel free to explore my work, collaborate on exciting projects, and let’s build impactful solutions together. 🚀✨
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hsnlmbrq_)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@migi.way7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jamalul-husnil-mubaraq-284b8638b)
