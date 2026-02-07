@@ -36,4 +36,4 @@ Saya senang membangun aplikasi web yang efisien, aman, dan mudah digunakan, sert
 
 ## 💵Support Me
 
-[![Saweria]()]()
+[![Saweria](https://img.shields.io/badge/SAWERIA-FF5F00?style=for-the-badge&logo=saweria&logoColor=white)](https://saweria.co/geoit)
