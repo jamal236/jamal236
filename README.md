@@ -36,7 +36,7 @@ I love transforming ideas into intuitive, engaging digital experiences through c
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haerul920/haerul920/output/pacman-contribution-graph.svg">
 </picture>
 
-name: Generate Snake
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
@@ -47,12 +47,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG
+      - name: Generate pacman graph
         uses: Platane/snk@v3
         with:
-          github_user_name: USERNAME
+          github_user_name: haerul920
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -61,6 +62,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 ## 💵Support Me
 
 [![Saweria]()]()
