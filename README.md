@@ -38,4 +38,4 @@ I love transforming ideas into intuitive, engaging digital experiences through c
 
 ## 💵Support Me
 
-[![Saweria](https://img.shields.io/badge/SAWERIA-FF5F00?style=for-the-badge&logo=saweria&logoColor=white)](https://saweria.co/geoit)
+[![Saweria]()]()
