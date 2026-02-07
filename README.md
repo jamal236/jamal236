@@ -50,7 +50,7 @@ jobs:
       - name: Generate pacman graph
         uses: Platane/snk@v3
         with:
-          github_user_name: haerul920
+          github_user_name: jamal236
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
